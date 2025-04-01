@@ -5,7 +5,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">
 </p>
 
-![Profile views](https://gpvc.arturio.dev/Souravdey777)  <img src="https://img.shields.io/github/followers/Souravdey777?label=Follow" style=" float:left, margin-right:10px" />
+
 <p align="center" style="font-size: 18px;">Hey there! I'm a passionate Engineer and B.Tech student exploring the vast world of technology. 🚀</p>
 
 <h2 align="center">💻 Languages I Know</h2>
