@@ -28,12 +28,12 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=BiswajitSahoo&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=BiswajitSahoo&theme=radical" alt="GitHub Streak" />
 </p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BiswajitSahoo&layout=compact&theme=radical" alt="Top Languages" />
-</p>
+</p> -->
 
 <h2 align="center">📫 Connect with Me</h2>
 <p align="center">
