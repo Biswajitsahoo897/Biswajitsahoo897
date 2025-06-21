@@ -10,6 +10,7 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
+
     steps:
       - uses: actions/checkout@v2
       
@@ -17,11 +18,10 @@ jobs:
         with:
           github_user_name: Biswajitsahoo897
           outputs: dist/github-snake.svg
-          # Set colors for black background and a colored snake
-          color_snake: '#00FF00'        # Neon green snake, or choose as you like
-          color_dots: '#000000,#333333,#666666,#999999,#CCCCCC'  # gradient of dark dots
-          # Note: Currently Platane/snk does not provide a direct background color option,
-          # but you can achieve black-like background by tweaking color_dots to be dark
+          # Add these lines for black background
+          svg_color_bg: "000000"  # Black background
+          svg_color_border: "000000"  # Black border (optional)
+          svg_color_snake: "00FF00"  # You can change snake color too if you want
           
       - run: git status
           
