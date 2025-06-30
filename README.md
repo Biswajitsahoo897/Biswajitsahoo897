@@ -6,7 +6,7 @@
 
 ### 👋 About Me
 
-I'm a passionate B.Tech student constantly exploring the vast world of technology. I love building cool projects, solving real-world problems, and learning new tools that make development fun and efficient.
+I'm a passionate B.Tech(CSE) student constantly exploring the vast world of technology. I love building cool projects, solving real-world problems, and learning new tools that make development fun and efficient.
 
 ---
 
