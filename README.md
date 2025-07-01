@@ -21,7 +21,7 @@ I'm a passionate B.Tech(CSE) student constantly exploring the vast world of tech
 ## 🚀 Tools & IDEs
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,linux,vscode,sublime,eclipse,pycharm,npm,bun,vite&theme=dark" alt="Tech stack" />
+  <img src="https://skillicons.dev/icons?i=git,github,linux,vscode,sublime,eclipse,pycharm,npm,vite&theme=dark" alt="Tech stack" />
 </p>
 
 ### 📊 GitHub Stats
