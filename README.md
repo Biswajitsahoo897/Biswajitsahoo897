@@ -13,7 +13,7 @@ I'm a passionate B.Tech(CSE) student constantly exploring the vast world of tech
 ### 💻 Languages & Technologies I Know
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwindcss,nodejs,mysql,mongodb,python,c,cpp,java&theme=dark" alt="Tech stack" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwindcss,bootstrap,nodejs,mysql,mongodb,python,c,cpp,java&theme=dark" alt="Tech stack" />
 </p>
 
 ---
