@@ -14,7 +14,7 @@ I'm a passionate B.Tech(CSE) student constantly exploring the vast world of tech
 
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwindcss,bootstrap,nodejs,mysql,mongodb,python,flask,php,c,cpp,java&theme=dark" alt="Tech stack" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwindcss,nodejs,mysql,mongodb,postgres,python,flask,php,c,java&theme=dark" alt="Tech stack" />
 </p>
 
 ---
@@ -22,7 +22,7 @@ I'm a passionate B.Tech(CSE) student constantly exploring the vast world of tech
 ## 🚀 Tools & IDEs
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,github,linux,git,sublime,eclipse,pycharm,npm,bun,vite&theme=dark" alt="Tech stack" />
+  <img src="https://skillicons.dev/icons?i=vscode,github,linux,git,sublime,eclipse,pycharm,npm,vite,prisma&theme=dark" alt="Tech stack" />
 </p>
 
 ### 📊 GitHub Stats
